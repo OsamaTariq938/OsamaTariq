@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 body {
   background-image: url("images/background.jpg");
-  background-repeat: repeat
+  background-repeat: no-repeat
 }
 #navbar_top {
   border-radius: 30px;
